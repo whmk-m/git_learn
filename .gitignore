@@ -47,8 +47,11 @@ $RECYCLE.BIN/
 *.exe
 *.o
 *.so
-
-
+*.swm
+*.swn
+*.swo
+*.swp
+.idea/
 #################
 ## Packages
 #################
