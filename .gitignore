@@ -51,7 +51,7 @@ $RECYCLE.BIN/
 *.swn
 *.swo
 *.swp
-.idea/
+.idea
 #################
 ## Packages
 #################
